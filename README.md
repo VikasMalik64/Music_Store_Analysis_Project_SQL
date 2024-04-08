@@ -8,7 +8,7 @@ The "Music Store Data Analysis" project offers a comprehensive analysis of the m
 
 ## Tech Stack Used
 
-![postgresql 248x256](https://github.com/VikasMalik64/Images/blob/6d3c58b28c9ace3846d807cd4430cd275937be8c/Music%20Store%20SQL/postgresql-logo-svgrepo-com.png)
+![postgresql](https://github.com/VikasMalik64/Images/blob/6d3c58b28c9ace3846d807cd4430cd275937be8c/Music%20Store%20SQL/postgresql-logo-svgrepo-com.png)
 
 PostgreSQL and pgAdmin4
 
@@ -31,46 +31,46 @@ The dataset for this project has 11 tables: Employee, Customer, Invoice, Invoice
 
 ➥
 
-![Untitled design](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Q_1.jpg)
+![Q1](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Q_1.jpg)
 
 Output :
 
-![1a](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Output_1.jpg)
+![O1](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Output_1.jpg)
 
 
 ➥
 
 
 
-![Untitled design(1)](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Q_2.jpg)
+![Q2](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Q_2.jpg)
 
 Output :
 
-![1b](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Output_2.jpg)
+![O2](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Output_2.jpg)
 
 ➥
 
-![Untitled design(2)](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Q_3.jpg)
+![Q3](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Q_3.jpg)
 
 Output :
 
-![1c](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Output_3.jpg)
+![O3](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Output_3.jpg)
 
 ➥
 
-![Untitled design(3)](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Q_4.jpg)
+![Q4](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Q_4.jpg)
 
 Output :
 
-![1d](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Output_4.jpg)
+![O4](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Output_4.jpg)
 
  ➥
  
-![4569](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Q_5.jpg)
+![Q5](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Q_5.jpg)
 
 Output :
 
-![1e](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Output_5.jpg)
+![O5](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Output_5.jpg)
 
 
 
@@ -78,27 +78,27 @@ Output :
 
 ➥
 
-![Set 2](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set2/Q_6.jpg)
+![Q6](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set2/Q_6.jpg)
 
 Output :
 
-![2a](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set2/Output_6.jpg)
+![O6](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set2/Output_6.jpg)
 
 ➥
 
-![85](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set2/Q_7.jpg)
+![Q7](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set2/Q_7.jpg)
 
 Output :
 
-![2b](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set2/Output_7.jpg)
+![O7](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set2/Output_7.jpg)
 
 ➥
 
-![41](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set2/Q_8.jpg)
+![Q8](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set2/Q_8.jpg)
 
 Output :
 
-![2c](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set2/Output_8.jpg)
+![O8](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set2/Output_8.jpg)
 
 
 
@@ -106,27 +106,27 @@ Output :
 
 ➥
 
-![Untitled design(4)](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set3/Q_9.jpg)
+![Q9](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set3/Q_9.jpg)
 
 Output :
 
-![3a](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set3/Output_9.jpg)
+![O9](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set3/Output_9.jpg)
 
 ➥
 
-![Untitled design(5)](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set3/Q_10.jpg)
+![Q10](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set3/Q_10.jpg)
 
 Output :
 
-![3b](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set3/Output_10.jpg)
+![O10](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set3/Output_10.jpg)
 
 ➥
 
-![Untitled design(6)](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set3/Q_11.jpg)
+![Q11](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set3/Q_11.jpg)
 
 Output :
 
-![3c](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set3/Output_11.jpg)
+![O11](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set3/Output_11.jpg)
 
 # Key Findings
 
