@@ -8,7 +8,7 @@ The "Music Store Data Analysis" project offers a comprehensive analysis of the m
 
 ## Tech Stack Used
 
-![postgresql 248x256](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Postgresql_elephant.svg.png)
+![postgresql 248x256](https://github.com/VikasMalik64/Images/blob/6d3c58b28c9ace3846d807cd4430cd275937be8c/Music%20Store%20SQL/postgresql-logo-svgrepo-com.png)
 
 PostgreSQL and pgAdmin4
 
@@ -23,7 +23,7 @@ PostgreSQL and pgAdmin4
 
 The dataset for this project has 11 tables: Employee, Customer, Invoice, InvoiceLine, Track, MediaType, Genre, Album, Artist, PlaylistTrack, and Playlist, as well as their associations.
 
-<img width="594" alt="schema_diagram" src="https://github.com/harshitgahlaut/Music_Store_Analysis_Project_SQL/assets/142779836/820c6cdc-0976-4479-bdf0-bc612df237a6">
+<img width="594" alt="schema_diagram" src="https://github.com/VikasMalik64/Music_Store_Analysis_Project_SQL/blob/ee8903c76a127881a4bf9ddb2eea1a2050011b3f/schema_diagram.png">
 
 ## Questions and Answers
 
