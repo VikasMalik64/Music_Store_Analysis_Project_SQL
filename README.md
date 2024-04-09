@@ -268,26 +268,3 @@ _Identifying Preferred Music Genres_: Through an analysis of customer preference
 ## End
 
 Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on https://www.linkedin.com/in/vikasmalik64/
-
-
-
-```sql
-WITH best_selling_artist AS (
-	SELECT ar.artist_id AS artist_id, ar.name AS artist_name, SUM(il.unit_price*il.quantity) AS total_sales
-	FROM invoice_line AS il
-	JOIN track AS tr ON il.track_id = tr.track_id
-	JOIN album AS ab ON tr.album_id = ab.album_id
-	JOIN artist AS ar ON ab.artist_id = ar.artist_id
-	GROUP BY ar.artist_id
-	ORDER BY 3 DESC LIMIT 1
-)
-SELECT cu.customer_id, cu.first_name, cu.last_name, bsa.artist_name
-AS artist_name, SUM(il.unit_price * il.quantity) AS amount_spent
-FROM invoice AS iv
-JOIN customer AS cu ON iv.customer_id = cu.customer_id
-JOIN invoice_line AS il ON iv.invoice_id = il.invoice_id
-JOIN track AS tr ON il.track_id = tr.track_id
-JOIN album AS ab ON tr.album_id = ab.album_id
-JOIN best_selling_artist AS bsa ON ab.artist_id = bsa.artist_id
-GROUP BY cu.customer_id, bsa.artist_name;
-```
