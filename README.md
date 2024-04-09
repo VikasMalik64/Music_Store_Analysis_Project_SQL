@@ -75,9 +75,9 @@ Output :
 ➥
 
 -- Q4. Which city has the best customers? 
--- A. We would like to throw a promotional Music Festival in the city we made the most money. 
--- B. Write a query that returns one city that has the highest sum of invoice totals. 
--- C. Return both the city name & sum of all invoice totals.
+- A. We would like to throw a promotional Music Festival in the city we made the most money. 
+- B. Write a query that returns one city that has the highest sum of invoice totals. 
+- C. Return both the city name & sum of all invoice totals.
 ```sql
 SELECT billing_city, SUM(total) AS invoice_totals
 FROM invoice
