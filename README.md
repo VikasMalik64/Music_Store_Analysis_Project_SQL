@@ -31,7 +31,13 @@ The dataset for this project has 11 tables: Employee, Customer, Invoice, Invoice
 
 ➥
 
-![Q1](https://github.com/VikasMalik64/Images/blob/43b2b521f3aed4f33b7df533478dee299e1355e5/Music%20Store%20SQL/Q_Set1/Q_1.jpg)
+-- Q1. Who is the senior most employee based on job title?
+```sql
+SELECT * 
+FROM employee
+ORDER BY levels DESC
+LIMIT 1;
+```
 
 Output :
 
