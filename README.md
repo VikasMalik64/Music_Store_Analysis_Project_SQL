@@ -93,8 +93,8 @@ Output :
  ➥
  
 -- Q5. Who is the best customer? 
--- A. The customer who has spent the most money will be declared the best customer. 
--- B. Write a query that returns the person who has spent the most money.
+- A. The customer who has spent the most money will be declared the best customer. 
+- B. Write a query that returns the person who has spent the most money.
 ```sql
 SELECT cu.customer_id, cu.first_name, cu.last_name, SUM(iv.total) AS total_purcahse
 FROM customer AS cu
@@ -158,8 +158,8 @@ Output :
 ➥
 
 -- Q3. Return all the track names that have a song length longer than the average song length. 
--- A. Return the Name and Milliseconds for each track. 
--- B. Order by the song length with the longest songs listed first.
+- A. Return the Name and Milliseconds for each track. 
+- B. Order by the song length with the longest songs listed first.
 ```sql
 SELECT name, milliseconds
 FROM track
@@ -209,9 +209,9 @@ Output :
 ➥
 
 -- Q2: We want to find out the most popular music Genre for each country. 
--- A. We determine the most popular genre as the genre with the highest amount of purchases. 
--- B. Write a query that returns each country along with the top Genre. 
--- C. For countries where the maximum number of purchases is shared return all Genres.
+- A. We determine the most popular genre as the genre with the highest amount of purchases. 
+- B. Write a query that returns each country along with the top Genre. 
+- C. For countries where the maximum number of purchases is shared return all Genres.
 ```sql
 WITH popular_genre AS (
 	SELECT cu.country, COUNT(il.quantity) AS total_purchases, gr.name AS top_genre, gr.genre_id,
@@ -238,8 +238,8 @@ Output :
 ➥
 
 -- Q3: Write a query that determines the customer that has spent the most on music for each country. 
--- A. Write a query that returns the country along with the top customer and how much they spent. 
--- B. For countries where the top amount spent is shared, provide all customers who spent this amount.
+- A. Write a query that returns the country along with the top customer and how much they spent. 
+- B. For countries where the top amount spent is shared, provide all customers who spent this amount.
 ```sql
 WITH customer_with_country AS (
 	SELECT cu.country, cu.customer_id, cu.first_name, cu.last_name, SUM(iv.total) AS total_spending,
