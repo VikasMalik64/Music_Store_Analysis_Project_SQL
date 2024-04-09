@@ -115,8 +115,7 @@ Output :
 
 ➥
 
--- Q1. Write query to return the email, first name, last name, & Genre of all Rock Music listeners. 
--- Return your list ordered alphabetically by email starting with A.
+-- Q1. Write query to return the email, first name, last name, & Genre of all Rock Music listeners. Return your list ordered alphabetically by email starting with A.
 ```sql
 SELECT cu.email, cu.first_name, cu.last_name
 FROM customer AS cu
@@ -137,8 +136,7 @@ Output :
 
 ➥
 
--- Q2. Let's invite the artists who have written the most rock music in our dataset. 
--- Write a query that returns the Artist name and total track count of the top 10 rock bands.
+-- Q2. Let's invite the artists who have written the most rock music in our dataset. Write a query that returns the Artist name and total track count of the top 10 rock bands.
 ```sql
 SELECT ar.artist_id, ar.name, COUNT(ar.artist_id) AS number_of_songs
 FROM artist AS ar
@@ -180,8 +178,7 @@ Output :
 
 ➥
 
--- Q1. Find how much amount spent by each customer on artists? 
--- Write a query to return customer name, artist name and total spent.
+-- Q1. Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent.
 ```sql
 WITH best_selling_artist AS (
 	SELECT ar.artist_id AS artist_id, ar.name AS artist_name, SUM(il.unit_price*il.quantity) AS total_sales
